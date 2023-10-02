@@ -1,0 +1,23 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0;
+    box-shadow: 5px 5px 5px gray;
+}
+.NOTE{
+   font-size: 15px;
+   color: green;
+   
+}
+
+
+.copy_right_footer{
+
+   position: fixed;
+   color: aliceblue;
+   background-color: gray;
+   bottom: 0;
+   width: 100%;
+   text-align: center;
+   line-height: 3;
+}
